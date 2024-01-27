@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Misc",
+  "FriendlyName": "Translator",
+  "SystemName": "Misc.Translator",
+  "Version": "0.01",
+  "SupportedVersions": [ "4.50" ],
+  "Author": "Mert Yavuz",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Misc.Translator.dll",
+  "Description": "This plugin allows to create a new language from the admin panel and translate the existing language resources.",
+}
