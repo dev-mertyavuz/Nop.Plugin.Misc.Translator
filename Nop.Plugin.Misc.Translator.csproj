@@ -5,7 +5,6 @@
     <Copyright>Copyright © Nop Solutions, Ltd</Copyright>
     <Company>Nop Solutions, Ltd</Company>
     <Authors>Nop Solutions, Ltd</Authors>
-    <PackageLicenseUrl></PackageLicenseUrl>
     <PackageProjectUrl>https://www.nopcommerce.com/</PackageProjectUrl>
     <RepositoryUrl>https://github.com/nopSolutions/nopCommerce</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
@@ -44,10 +43,6 @@
   <ItemGroup>
     <ProjectReference Include="..\..\Presentation\Nop.Web.Framework\Nop.Web.Framework.csproj" />
     <ClearPluginAssemblies Include="$(MSBuildProjectDirectory)\..\..\Build\ClearPluginAssemblies.proj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <PackageReference Include="sib_api_v3_sdk" Version="3.1.0" />
   </ItemGroup>
 
   <ItemGroup>
